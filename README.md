@@ -1,4 +1,3 @@
-# ExpenseAnalyzer – Theory / Project Explanation
 
 ## 1. Project Overview
 ExpenseAnalyzer is a Python-based software project that helps users **track, manage, and analyze their expenses**. It is designed to give insights into spending patterns and help in **better financial planning**.
